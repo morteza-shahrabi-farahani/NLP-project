@@ -1,7 +1,6 @@
 import csv
 import os
 
-
 read_path = "data/raw/initial-files/train.csv"  # Set the path to your file
 usual_comments = {}
 unusual_comments = {}
