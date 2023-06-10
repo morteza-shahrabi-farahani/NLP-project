@@ -27,3 +27,9 @@ For tokenizing the data
 ```
 python src/tokenize_classes.py
 ```
+
+For measuring metrics
+
+```
+python src/measure_stats.py
+```
